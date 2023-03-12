@@ -11,6 +11,6 @@
     ],
      "minimum-stability": "beta",
     "require": {
-        "dependency": "1.0-beta"
+        "dependency": "1.0.0"
     }
 }
