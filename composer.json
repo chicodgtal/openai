@@ -1,5 +1,5 @@
 {
-    "name": "openai/openai",
+    "name": "openai/openai: ^0.6.4",
     "description": "ai integracao",
     "type": "library",
     "license": "MIT",
