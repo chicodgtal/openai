@@ -8,8 +8,5 @@
             "name": "Chico",
             "email": "chico@chicodgtal.com.br"
         }
-    ],
-    "require": {
-        "openai/openai": "^0.6.3"
-    }
+    ]
 }
