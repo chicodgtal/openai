@@ -9,8 +9,7 @@
             "email": "chico@chicodgtal.com.br"
         }
     ],
-     "minimum-stability": "beta",
     "require": {
-        "dependency": "1.0.0"
+        "openai/openai": "^0.6.3"
     }
 }
