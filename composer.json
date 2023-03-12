@@ -9,4 +9,8 @@
             "email": "chico@chicodgtal.com.br"
         }
     ]
+     "minimum-stability": "beta",
+    "require": {
+        "dependencia": "1.0-beta"
+    }
 }
