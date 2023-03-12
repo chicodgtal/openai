@@ -8,8 +8,5 @@
             "name": "Chico",
             "email": "chico@chicodgtal.com.br"
         }
-    ],
-    "require": {
-        "alguma-dependencia": "^1.0.0"
-    }
+    ]
 }
